@@ -1,0 +1,91 @@
+
+#head {
+	font-family: big john;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+#category {
+	font-family: big john;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+#add_button {
+	padding: 2px 8px 3px 8px;
+	font-family: big john;
+	font-size: 15px;
+}
+
+#purchase {
+	padding: 2px 8px 4px 8px;
+	font-family: big john;
+	font-size: 15px;
+}
+
+#position {
+	position: relative;
+	top: 5px;
+}
+
+.red {
+	color: #ff0000;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #fffff0;
+}
+
+button {
+	padding: 2px 8px 4px 8px;
+	font-family: big john;
+	font-size: 15px;
+	position: relative;
+	top: 5px;
+}
+
+ul {
+	list-style: none;
+	margin-left: 50px;
+}
+
+ul li {
+	background: #222;
+	width: 170px;
+	height: 100px;
+	border: 3px solid #fffff0;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	position: relative;
+	color: #fff;
+	font-size: 16px;
+}
+
+ul li:hover {
+	background: #66cdaa;
+}
+
+ul ul {
+	display: none;
+	margin-left: 135px;
+	top: 0;
+	position: absolute;
+}
+
+ul li:hover > ul {
+	display: block;
+}
+
+ul ul a {
+	color: #fff;
+	text-decoration: none;
+}
+
+ul ul ul {
+	margin-left: 135px;
+	top: 0;
+	position: absolute;
+}
