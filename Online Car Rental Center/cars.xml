@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<cars>
+    <car category="Sedan">
+        <brand>Toyota</brand>
+        <model>Camry</model>
+        <model_year>2013</model_year>
+        <mileage>10000</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>120</price_per_day>
+        <availability>False</availability>
+        <description>The 2013 Camry is definitely a good used mid-size car.</description>
+    </car>
+    <car category="Sedan">
+        <brand>BMW</brand>
+        <model>320i</model>
+        <model_year>2015</model_year>
+        <mileage>108644</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>300</price_per_day>
+        <availability>False</availability>
+        <description>The 2015 BMW 3 Series is a well-rounded and highly desirable entry-level luxury car.</description>
+    </car>
+    <car category="Sedan">
+        <brand>Honda</brand>
+        <model>Civic</model>
+        <model_year>2018</model_year>
+        <mileage>15260</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>220</price_per_day>
+        <availability>True</availability>
+        <description>The 2018 Honda Civic is a great option if you’re shopping for a used car.</description>
+    </car>
+    <car category="Sedan">
+        <brand>Volkswagen</brand>
+        <model>Golf</model>
+        <model_year>2017</model_year>
+        <mileage>91964</mileage>
+        <fuel_type>CNG</fuel_type>
+        <seats>5</seats>
+        <price_per_day>180</price_per_day>
+        <availability>True</availability>
+        <description>The 2017 Volkswagen Golf is a good choice in the compact car class.</description>
+    </car>
+    <car category="Sedan">
+        <brand>Hyundai</brand>
+        <model>Sonata</model>
+        <model_year>2013</model_year>
+        <mileage>10804</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>200</price_per_day>
+        <availability>True</availability>
+        <description>2013 Hyundai Sonata is among the most fuel-efficient midsize sedans, and its interior is quite comfortable.</description>
+    </car>
+    <car category="SUV">
+        <brand>Benz</brand>
+        <model>GLC</model>
+        <model_year>2017</model_year>
+        <mileage>26300</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>280</price_per_day>
+        <availability>False</availability>
+        <description>The 2017 Mercedes-Benz GLC touts a top-notch interior, pleasant handling, and strong engine performance.</description>
+    </car>
+    <car category="SUV">
+        <brand>Holden</brand>
+        <model>Captiva</model>
+        <model_year>2013</model_year>
+        <mileage>41828</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>7</seats>
+        <price_per_day>380</price_per_day>
+        <availability>True</availability>
+        <description>The Holden Captiva was a crossover SUV produced from 2006 to 2018 by GM Korea, previously known as Daewoo. </description>
+    </car>
+    <car category="SUV">
+        <brand>Jeep</brand>
+        <model>Cherokee</model>
+        <model_year>2014</model_year>
+        <mileage>74300</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>300</price_per_day>
+        <availability>True</availability>
+        <description>The 2014 Jeep Cherokee has four trim levels: Sport, Latitude, Limited, and Trailhawk.</description>
+    </car>
+    <car category="SUV">
+        <brand>Nissan</brand>
+        <model>X-trail</model>
+        <model_year>2015</model_year>
+        <mileage>46100</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>7</seats>
+        <price_per_day>360</price_per_day>
+        <availability>True</availability>
+        <description>The Nissan X-Trail is a compact crossover SUV produced by the Japanese automaker Nissan.</description>
+    </car>
+    <car category="Wagon">
+        <brand>Suzuki</brand>
+        <model>Jimny</model>
+        <model_year>2012</model_year>
+        <mileage>66779</mileage>
+        <fuel_type>Diesel</fuel_type>
+        <seats>4</seats>
+        <price_per_day>400</price_per_day>
+        <availability>True</availability>
+        <description>The Suzuki Jimny Sierra is a off-road mini SUVs, with four wheel drive, a front mounted engine.</description>
+    </car>
+</cars>
